@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3608541711
+CRC: 236642868
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4b4b27bd56e6d8df55fbc5f60009baf7
+    Hash: 14c5020752725b41956d055a2db1626b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4fe44d12caa8ac6a0c5a615c479fbfbc
+    Hash: 79de9cd6c44d42cb62c211b36630d0fc
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,14 +25,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 49
-  Script: {instanceID: 0}
-- Class: 65
-  Script: {instanceID: 0}
-- Class: 114
-  Script: {fileID: 11500000, guid: afbe6912b3e4973458bb0ff672a75cf7, type: 3}
-- Class: 115
+- Class: 135
   Script: {instanceID: 0}
 Assets:
-- Assets/Prefabs/Stage.prefab
+- Assets/Prefabs/Sphere.prefab
 Dependencies: []

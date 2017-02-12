@@ -4,3 +4,6 @@ AssetBundleManifest:
     Info_0:
       Name: stage01
       Dependencies: {}
+    Info_1:
+      Name: sphere
+      Dependencies: {}
